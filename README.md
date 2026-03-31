@@ -18,5 +18,5 @@ options:
 # Install:
 
 ```sh
-pipx install warmup_sabjdabfuahbuhduoahofuhaoihdiohaiofhiaowjdipajipjdapjgpajidjiajgiajoida@git+github.com/x-9917638/warmup
+pipx install warmup_sabjdabfuahbuhduoahofuhaoihdiohaiofhiaowjdipajipjdapjgpajidjiajgiajoida@git+https://github.com/x-9917638/warmup
 ```

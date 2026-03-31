@@ -1,0 +1,14 @@
+[project]
+name = "warmup_sabjdabfuahbuhduoahofuhaoihdiohaiofhiaowjdipajipjdapjgpajidjiajgiajoida"
+version = "0.1.0"
+description = "?"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+warmup = "main:main"
+
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
